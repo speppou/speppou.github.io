@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The personal blog of Sam Peppou-Chapman, PhD. 
 
-### More Information
+This is a place to chronicle my personal projects, experiments and thoughts. All views are my own. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Academia
 
-### Contact me
+[Google Scholar](https://scholar.google.com.au/citations?user=ZVPvXnMAAAAJ&hl=en)
 
-[email@domain.com](mailto:email@domain.com)
+[PhD Thesis](https://hdl.handle.net/2123/24517)
+
+
+
