@@ -72,13 +72,12 @@ With all the that, it is time to make turkey ice cream.
 First, roast turkey bones tossed in skim milk powder. 
 
 <img src="{{ site.baseurl }}/images/2023-01-03-Turkey-ice-cream/roasted-meat.jpg" alt="Roasted turkey bones" width="500"/>
-![Roasted turkey bones]({{ site.baseurl }}/images/2023-01-03-Turkey-ice-cream/roasted-meat.jpg)
 
 Add the milk and cream to infuse.
 
-![Ready to infuse]({{ site.baseurl }}/images/2023-01-03-Turkey-ice-cream/ready-to-infuse.jpg)
+<img src="{{ site.baseurl }}/images/2023-01-03-Turkey-ice-cream/ready-to-infuse.jpg" alt="Ready to infuse" width="500"/>
 
-![Infusing milk with turkey flavour]({{ site.baseurl }}/images/2023-01-03-Turkey-ice-cream/infusing.jpg)
+<img src="{{ site.baseurl }}/images/2023-01-03-Turkey-ice-cream/infusing.jpg" alt="Infusing milk with turkey flavour" width="500"/>
 
 Making ice cream.
 
@@ -86,7 +85,7 @@ Making ice cream.
 
 The finished product.
 
-![Finished product]({{ site.baseurl }}/images/2023-01-03-Turkey-ice-cream/finished.jpg)
+<img src="{{ site.baseurl }}/images/2023-01-03-Turkey-ice-cream/finished.jpg" alt="Finished product" width="500"/>
 
 The taste was suprisingly good. The ice cream was flavoursome and not too sweet, it was unbelievably creamy and had an unmistakabe turkey note on the end. The cranberry swirl complimented the turkey perfectly. 
 
