@@ -6,7 +6,11 @@ permalink: /about/
 
 The personal blog of Sam Peppou-Chapman, PhD. 
 
-This is a place to chronicle my personal projects, experiments and thoughts. All views are my own. 
+Broadly interested in science, technology, cooking and occasionaly surface chemistry. 
+
+This is a place to chronicle my personal projects, experiments and thoughts. 
+
+All views are my own. 
 
 ### Academia
 
