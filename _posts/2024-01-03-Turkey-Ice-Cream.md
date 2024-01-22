@@ -105,7 +105,7 @@ The taste was suprisingly good. The ice cream was flavoursome and not too sweet,
 - 6 large egg yolks
 - 120 grams white sugar
 - 30 grams inulin
-- 2.5 grams guar gum
+- 2.5 grams guar gum (or other stabiliser)
 
 **For Freezing:**
 - Liquid nitrogen (quantity as required)
