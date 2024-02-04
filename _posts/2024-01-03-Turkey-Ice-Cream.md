@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Turkey Flavoured Ice Cream
+categories: [Meat Monstrosity]
 ---
 
 Yes. Really. This post is about the rabbit hole I went down to make what I think is a world-first, pushing the boundaries of the culinary world: Turkey Flavoured Ice Cream. 
