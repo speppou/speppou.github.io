@@ -12,7 +12,7 @@ Yes. Really. This post is about the rabbit hole I went down to make what I think
 
 "Why are you like this?" asked my auntie one year at Christmas when revealing our yearly 'Meat Monstrosity' and I think the best answer is 'because no-body else is'. 
 
-Why turkey ice cream in particular? The idea came from wanting to take an integral part of a Christmas dinner (turkey) and make something absurd but still tasty out of it. Ice cream seemed obvious in hindsight because Christams is generally hot in Australia and there isn't much less appealing than 'meat ice cream' making it the perfect challenge. A quick Google showed no real results when searching for meat-based ice creams so I instantly knew I was breaking new ground with this project but also that there was a lot of work ahead of me if I wanted to make something palatable. 
+Why turkey ice cream in particular? The idea came from wanting to take an integral part of a Christmas dinner (turkey) and make something absurd but still tasty out of it. Ice cream seemed obvious in hindsight because Christmas is generally hot in Australia and there isn't much less appealing than 'meat ice cream' making it the perfect challenge. A quick Google showed no real results when searching for meat-based ice creams so I instantly knew I was breaking new ground with this project but also that there was a lot of work ahead of me if I wanted to make something palatable. 
 
 ## Making Ice Cream
 
