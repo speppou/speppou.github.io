@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Sydney's Property Market Really That Bad? An in-depth analysis
+title: Is Sydney's Property Market Really That Bad? An In-depth Analysis
 categories: []
 ---
 
@@ -117,7 +117,7 @@ This was an interesting exercise and after looking at this data there are a few 
 2. You must somewhat treat your property as an investment. This does seem a bit like a Ponzi scheme, so we have to hope Sydney's population doesn't decline in our lifetimes. 
 3. Everything we looked at was for the median so that means there are 50% of people worse off than the picture painted here. 
 
-
+## 
 
 
 
