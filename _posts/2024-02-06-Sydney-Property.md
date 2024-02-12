@@ -10,7 +10,7 @@ Being from Sydney, I am property obsessed. It must be something in the water as 
 
 This seems like a pretty good place to start as property is a ladder and so the median income should be able to afford the median property, right?
 
-According to the ABS, the median income in greater Sydney was $1,686.6 per week in Aug 2023. If we take affordable to mean that you are spending 30% of your income on housing (i.e., you're on the edge of meeting the definition of mortgage stress), then we can see if the median person or median couple (defined as two median incomes) can afford the median house. In these calculations, we are assuming that the imaginary buyer has a 20% deposit and are paying a rate of 6.2% (a typical rate in Feb 2024).
+[According to the ABS](https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/characteristics-employment-australia/aug-2023), the median income in greater Sydney was $1,686.6 per week in Aug 2023. If we take affordable to mean that you are spending 30% of your income on housing (i.e., you're on the edge of meeting the definition of [mortgage stress](https://wayforward.org.au/debt-information/what-is-mortgage-stress-and-what-you-can-do-about-it/)), then we can see if the median person or median couple (defined as two median incomes) can afford the median house. In these calculations, we are assuming that the imaginary buyer has a 20% deposit and are paying a rate of 6.2% (a typical rate in Feb 2024).
 
 From the graph below, we see that the median person in Sydney cannot afford the median property, but the median couple can almost afford the median property. At first, I was a little surprised by the fact that two people on the median income can almost afford the median property given the rhetoric about how unaffordable Sydney is. But, on reflection, this might be the *ladder* nature of property displaying itself coupled with the fact that dual income households are the norm. 
 
@@ -117,7 +117,17 @@ This was an interesting exercise and after looking at this data there are a few 
 2. You must somewhat treat your property as an investment. This does seem a bit like a Ponzi scheme, so we have to hope Sydney's population doesn't decline in our lifetimes. 
 3. Everything we looked at was for the median so that means there are 50% of people worse off than the picture painted here. 
 
-## 
+# Sources
+
+Property data: https://www.kaggle.com/datasets/josephcheng123456/nsw-australia-property-data
+
+Earnings: https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/characteristics-employment-australia/aug-2023
+
+Post codes: https://www.matthewproctor.com/australian_postcodes
+
+Post code geodata: https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202016?OpenDocument
+
+See [github repository](https://github.com/speppou/Sydney-Property-Analysis/) for Jupyter Notebook.
 
 
 
