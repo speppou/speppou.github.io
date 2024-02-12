@@ -119,13 +119,13 @@ This was an interesting exercise and after looking at this data there are a few 
 
 # Sources
 
-Property data: https://www.kaggle.com/datasets/josephcheng123456/nsw-australia-property-data
+[Property data](https://www.kaggle.com/datasets/josephcheng123456/nsw-australia-property-data)
 
-Earnings: https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/characteristics-employment-australia/aug-2023
+[Earnings](https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/characteristics-employment-australia/aug-2023)
 
-Post codes: https://www.matthewproctor.com/australian_postcodes
+[Post codes](https://www.matthewproctor.com/australian_postcodes)
 
-Post code geodata: https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202016?OpenDocument
+[Post code geodata](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202016?OpenDocument)
 
 See [github repository](https://github.com/speppou/Sydney-Property-Analysis/) for Jupyter Notebook.
 
