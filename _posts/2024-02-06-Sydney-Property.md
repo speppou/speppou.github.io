@@ -118,7 +118,7 @@ To look at this, we can look at how much the "median couple" could afford over t
 The image below shows the purchasing power of our hypothetical median couple and the median price of a property in Sydney over time.
 
 <figure>
-    <img src="{{ site.baseurl }}/images/2024-02-06-Sydney-Property/Sydney%20Property%20Price%20Anaysis_50_0.png" alt="Sydney Property Prices vs. Affordable Prices Based on Median Income" width="500"/>
+    <img src="{{ site.baseurl }}/images/2024-02-06-Sydney-Property/Sydney%20Property%20Price%20Anaysis_50_0.png" alt="Sydney Property Prices vs. Affordable Prices Based on Median Income" width="700"/>
     <figcaption></figcaption>
 </figure>
 
