@@ -109,13 +109,40 @@ Unfortunately, for our imaginary median couple, even if the treat their house as
     <figcaption>Proportion of houses sold since 2020 affordable for two median incomes spending 50% on housing.</figcaption>
 </figure>
 
+# How has property price changed vs income over time?
+
+Are we living in an anomoly or has property in Sydney always been unaffordable? So far, we have seen Sydney is not very affordable but we have only looked at sales since 2020 and using the current high interest rates. What about the last 20 years?
+
+To look at this, we can look at how much the "median couple" could afford over time and compare their purchasing power to the median property price using historical interest rates taken from the Reserve Bank of Australia. 
+
+The image below shows the purchasing power of our hypothetical median couple and the median price of a property in Sydney over time.
+
+<figure>
+    <img src="{{ site.baseurl }}/images/2024-02-06-Sydney-Property/Sydney%20Property%20Price%20Anaysis_50_0.png" alt="Sydney Property Prices vs. Affordable Prices Based on Median Income" width="500"/>
+    <figcaption></figcaption>
+</figure>
+
+Some notes on this analysis: 
+* This is assuming 30% of income spent on housing.
+* We are using median NSW income as I couldn't find median Sydney income going back past 2014 (I have plotted that too to show it's not that different)/
+* The interest rates used here are the average lender variable rates for new owner-occupier loans for a given year. These rates are slightly higher than the actual average rate due to various discounts offered by lenders but the RBA has only been tracking actual rates since 2019 so we couldn't use that data. 
+
+Amazingly, the affordable price and the median house price line up very well! That means that from 1990 to 2021, the property ladder has been a ladder, with two median incomes being able to afford the median property. 
+
+However, in the last few years this has not been true. Rising interest rates have meant that the affordable price has decreased while there has not been a correspoinding decrease in property prices. 
+
+Now, I am not an economist so I don't want to overstep with my interpretation here, but to me this could mean one of two things:
+
+1. As interest rates have gone up, people are sinking more and more of their income into their housing. This cannot be sustainable and there must be a large proportion of homeowners on the brink of being delinquent. If this is true, then at some point supply should increase as these owners sell and house prices should decrease. 
+2. The dip in affordability is a temporary dip while we fight inflation and interest rates will come back down and the affordibility line will come back up to meet the property price line.
+
 # Final Thoughts
 
 This was an interesting exercise and after looking at this data there are a few take aways for me: 
 
-1. Sydney is not a good place to be single and a below median earner. We need more affordable housing initiatives and support for people leaving abusive relationships.
-2. You must somewhat treat your property as an investment. This does seem a bit like a Ponzi scheme, so we have to hope Sydney's population doesn't decline in our lifetimes. 
-3. Everything we looked at was for the median so that means there are 50% of people worse off than the picture painted here. 
+1. Sydney is not a good place to be single and/or a below median earner. We need more affordable housing initiatives and support for people leaving abusive relationships as the housing market seems to assume everyone has dual incomes.
+2. You (currently) must somewhat treat your property as an investment. This does seem a bit like a Ponzi scheme, so we have to hope Sydney's population doesn't decline in our lifetimes. 
+3. It hasn't always been so dire. The current situation is anomolous and time will tell if this anomoly is transient or a new normal. 
 
 # Sources
 
@@ -126,6 +153,8 @@ This was an interesting exercise and after looking at this data there are a few 
 [Post codes](https://www.matthewproctor.com/australian_postcodes)
 
 [Post code geodata](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202016?OpenDocument)
+
+[Historical interest rates](https://www.rba.gov.au/statistics/historical-data.html)
 
 See [github repository](https://github.com/speppou/Sydney-Property-Analysis/) for Jupyter Notebook.
 
