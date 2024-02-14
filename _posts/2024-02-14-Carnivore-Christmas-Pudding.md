@@ -4,7 +4,7 @@ title: Carnivore Christmas Pudding
 categories: [Meat Monstrosity]
 ---
 
-Long before the idea of making a [meaty dessert]( https://surfacethoughts.com/Turkey-Ice-Cream/), there was the idea of making a dessert out of meat. 
+Long before the idea of making a [meaty dessert](https://surfacethoughts.com/Turkey-Ice-Cream/), there was the idea of making a dessert out of meat. 
 
 <img src="{{ site.baseurl }}/images/2024-02-14-Carnivore-Christmas-Pudding/Pudding02.jpg" alt="Carnivore Christmas Pudding" width="500"/>
 
