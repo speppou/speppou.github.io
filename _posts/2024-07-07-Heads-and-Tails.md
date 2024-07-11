@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simulating The Best Straegy for Heads and Tails
+title: Simulating The Best Strategy for Heads and Tails
 categories: [Data Science]
 ---
 
