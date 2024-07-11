@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Sydney's Property Market Really That Bad? An In-depth Analysis
-categories: []
+categories: [Data Science]
 ---
 
 Being from Sydney, I am property obsessed. It must be something in the water as I am pretty sure all Sydneysiders are too. As a result, an almost daily conversation topic is about how unaffordable the property market has become and, as someone hoping to one day buy a property, I wanted to investigate this in a bit more detail (or at least have something interesting to say next time this topic invariably comes up). 

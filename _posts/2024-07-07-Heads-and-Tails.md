@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simulating The Best Straegy for Heads and Tails
-categories: []
+categories: [Data Science]
 ---
 
 Who doesn't love a game of chance? One of my favourite days of the year is ANZAC Day as it means I get to play [two up](https://en.wikipedia.org/wiki/Two-up). Every week I play another game of chance as a bonus round at Trivia which seems like it might be possible to get an advantage in unlike other games of chance.
