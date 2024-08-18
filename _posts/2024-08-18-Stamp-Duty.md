@@ -28,7 +28,7 @@ But that is not too surprising as the cost of everything goes up and to the righ
     <figcaption>Weeks of work required for the median worker to earn stamp duty on a median property in Sydney.</figcaption>
 </figure>
 
-Even accounting for increases in earning potential, the time it takes to earn stamp duty has risen over time. Now, it takes the median worker over 35 weeks to earn to the stamp duty on the median property. Even if we assume that house buyers are coupled up, it would take a couple of median workers over three months of their full time earnings to pay for stamp duty. 
+Even accounting for increases in earning potential, the time it takes to earn stamp duty has risen over time. Now, it takes the median worker over 25 weeks to earn to the stamp duty on the median property. Even if we assume that house buyers are coupled up, it would take a couple of median workers over three months of their full time earnings to pay for stamp duty. 
 
 # Why Is It A Problem?
 
