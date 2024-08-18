@@ -15,7 +15,7 @@ The really terrible thing is they are looking at building a low-quality kit hous
 I never really thought about the total value of stamp duty until then so I did some calculations and it is quite shocking just how much it costs to move between houses in Sydney. 
 
 <figure>
-    <img src="{{ site.baseurl }}/images/2024-08-18-Stamp-Duty.md/Stamp_duty.png" alt="Cost of stamp duty on a median property in Sydney."width="500"/>
+    <img src="{{ site.baseurl }}/images/2024-08-18-Stamp-Duty.md/Stamp_duty.png" alt="Cost of stamp duty on a median property in Sydney." width="700"/>
     <figcaption>Cost of stamp duty on a median property in Sydney.</figcaption>
 </figure>
 
@@ -24,8 +24,8 @@ Unsurprisingly, the graph of the cost of stamp duty goes up and to the right.
 But that is not too surprising as the cost of everything goes up and to the right due to inflation. Instead, lets look at how many weeks it takes the median worker to earn the stamp duty on the median property in Sydney (we know from [my previous analysis](https://surfacethoughts.com/Sydney-Property/) that the assumption that the median earner buys the median house is pretty good). 
 
 <figure>
-    <img src="{{ site.baseurl }}/images/2024-08-18-Stamp-Duty.md/Stamp_duty_weeks.png" alt="Weeks of work required for the median worker to earn stamp duty on a median property in Sydney." width="500"/>
-    <figcaption>"Weeks of work required for the median worker to earn stamp duty on a median property in Sydney.</figcaption>
+    <img src="{{ site.baseurl }}/images/2024-08-18-Stamp-Duty.md/Stamp_duty_weeks.png" alt="Weeks of work required for the median worker to earn stamp duty on a median property in Sydney." width="700"/>
+    <figcaption>Weeks of work required for the median worker to earn stamp duty on a median property in Sydney.</figcaption>
 </figure>
 
 Even accounting for increases in earning potential, the time it takes to earn stamp duty has risen over time. Now, it takes the median worker over 35 weeks to earn to the stamp duty on the median property. Even if we assume that house buyers are coupled up, it would take a couple of median workers over three months of their full time earnings to pay for stamp duty. 
