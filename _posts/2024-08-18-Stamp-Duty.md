@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Stamp Duty Is The Real Villian Of They Sydney Housing Market
+title: Why Stamp Duty Is The Real Villian Of The Sydney Housing Market
 categories: [Data Science]
 ---
 
