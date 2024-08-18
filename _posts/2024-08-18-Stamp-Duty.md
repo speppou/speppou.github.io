@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Sydney's Property Market Really That Bad? An In-depth Analysis
+title: Why Stamp Duty Is The Real Villian Of They Sydney Housing Market
 categories: [Data Science]
 ---
 
