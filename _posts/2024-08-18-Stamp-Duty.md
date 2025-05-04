@@ -53,7 +53,7 @@ As far as I can tell, the rates of stamp duty were the same between 1985-2019. T
 
 [Source](https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/transfer-duty)
 
-But you'll notice that the top range is $1,000,000. In 1985, only the most expensive properties were above a million but now just about every property is. So it went from only the uber rich buying prestige properties paying the heigher rate to just about everyone. 
+But you'll notice that the top range is $1,000,000. In 1985, only the most expensive properties were above a million but now just about every property is. So it went from only the uber rich buying prestige properties paying the higher rate to just about everyone. 
 
 In 2019, indexation was introduced which defnitely helps but it was seemingly introduced with the assumption that the rates in 2018 were logical. Now, in 2024 the rates are: 
 
@@ -75,5 +75,5 @@ You would be very hard-pressed to find a free-standing house in Sydney that isn'
 
 Obviously, this is not equitable so there must be something we can do? Well, there isn't much real political support as stamp duty is a nice cash cow for the NSW Government. There was a proposal from the previous NSW Liberal Government to introduce land tax levied each year as an alternative, [but that was axed](https://www.smh.com.au/politics/nsw/perrottet-s-flagship-land-tax-to-go-as-minns-introduces-stamp-duty-reform-20230521-p5da1j.html). 
 
-I think the option to pay land tax yearly makes a lot of sense as it will allow people to move to properties they only plan to occupy for a few years. It will encourage downsizing and moving to the "correct" property of a given stage of life. Yes, it can cost more in the long rung (Labor's reasoning why it is bad) but I think that doesn't give people enough credit to make an informed decision. 
+I think the option to pay land tax yearly makes a lot of sense as it will allow people to move to properties they only plan to occupy for a few years. It will encourage downsizing and moving to the "correct" property of a given stage of life. Yes, it can cost more in the long run (Labor's reasoning why it is bad) but I think that doesn't give people enough credit to make an informed decision. 
 
